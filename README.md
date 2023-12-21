@@ -16,11 +16,11 @@ Alexandro Lucky Wibowo (210711284 - Mail Authenticate, Admin Order & menu, Order
 
 ### Admin:
 - email: vriyas.collage@gmail.com
-- passowrd: 12345678
+- passoword: 12345678
 
 ### User
 - email: 1@1
-- passowrd: 11111111
+- passoword: 11111111
 
 
 ## Bonus Yang Diambil:
